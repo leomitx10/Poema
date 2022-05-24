@@ -1,1 +1,0 @@
-Fiz um botão CONFIA.
