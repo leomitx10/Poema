@@ -1,5 +1,7 @@
-# Poema
+# Cordel
 
+  Cordel escrito por Marcos Medeiros.
+  
   Linguagens usadas:
  - HTML5
  - CSS3
