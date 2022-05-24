@@ -8,5 +8,5 @@
   
   Clique <a href="https://leomitx10.github.io/Cordel/" target="_blank">Aqui</a> para entrar no site.
   
-  Criado por: <b>Leomitx10</b>
+  Criado por: <bleomitx10</b>
 
